@@ -1,0 +1,13 @@
+name: ${project.name}
+version: '${project.version}'
+main: fr.shall0wer.projectlobby.Main
+api-version: 1.17
+authors: [ Shall0wer ]
+website: ${project.url}
+depend:
+  - Core
+commands:
+  test:
+  spawn:
+  admin:
+  fly:
